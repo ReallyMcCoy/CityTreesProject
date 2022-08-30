@@ -19,7 +19,7 @@ To acquire raw data on street tree communities, we used a search protocol on bot
  
 
 ## Data Cleaning
-All code used is in the zipped folder Data S5 in the eLife publication. Before cleaning the data, we ensured that all reported trees for each city were located within the greater metropolitan area of the city (for certain inventories, many suburbs were reported - some within the greater metropolitan area, others not). 
+All code used is in the zipped folder Data S4 in the eLife publication. Before cleaning the data, we ensured that all reported trees for each city were located within the greater metropolitan area of the city (for certain inventories, many suburbs were reported - some within the greater metropolitan area, others not). 
 
 First, we renamed all columns in the received .csv sheets, referring to the metadata and according to our standardized definitions (Table S4). To harmonize tree health and condition data across different cities, we inspected metadata from the tree inventories and converted all numeric scores to a descriptive scale including “excellent,” “good”, “fair”, “poor”, “dead”, and “dead/dying”. Some cities included only three points on this scale (e.g., “good”, “poor”, “dead/dying”) while others included five (e.g., “excellent,” “good”, “fair”, “poor”, “dead”).
 
